@@ -47,7 +47,7 @@ const items = [
 
   {
     id: "004",
-    image: "MyntraClone/images/4.jpg",
+    image: "4.jpg",
     company: "ADIDAS",
     item_name: "Indian Cricket ODI Jersey",
     original_price: 999,
