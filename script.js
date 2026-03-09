@@ -40,6 +40,7 @@ function displayItemOnHomePage() {
         return;
     }
     let innerHTML = ``;
+    
     items.forEach((item) => {
       innerHTML += `<div class="item-container" >
                 <img class="item-image"   src="${item.image}">

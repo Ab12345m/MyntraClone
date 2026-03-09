@@ -60,7 +60,7 @@ const items = [
       count: 10,
     },
   },
-  
+
   {
     id: "005",
     image: "images/5.jpg",
