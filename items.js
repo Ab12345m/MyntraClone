@@ -46,7 +46,7 @@ const items = [
   },
   {
     id: "004",
-    image: "images/4.jpg",
+    image: "images/images/4.jpg",
     company: "ADIDAS",
     item_name: "Indian Cricket ODI Jersey",
     original_price: 999,
@@ -61,7 +61,7 @@ const items = [
   },
   {
     id: "005",
-    image: "images/5.jpg",
+    image: "images/images/5.jpg",
     company: "Roadster",
     item_name: "Pure Cotton T-shirt",
     original_price: 1399,
@@ -76,7 +76,7 @@ const items = [
   },
   {
     id: "006",
-    image: "images/6.jpg",
+    image: "images/images/6.jpg",
     company: "Nike",
     item_name: "Men ReactX Running Shoes",
     original_price: 14995,
@@ -91,7 +91,7 @@ const items = [
   },
   {
     id: "007",
-    image: "images/7.jpg",
+    image: "images/images/7.jpg",
     company: "The Indian Garage Co",
     item_name: "Men Slim Fit Regular Shorts",
     original_price: 1599,
@@ -104,7 +104,7 @@ const items = [
   },
   {
     id: "008",
-    image: "images/8.jpg",
+    image: "images/images/8.jpg",
     company: "Nivea",
     item_name: "Men Fresh Deodrant 150ml",
     original_price: 285,
