@@ -248,3 +248,7 @@ header{
 a.action_container:link{
     color: black;
 }
+
+body{
+    background-color: green;
+}
