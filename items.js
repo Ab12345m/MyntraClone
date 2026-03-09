@@ -47,7 +47,7 @@ const items = [
 
   {
     id: "004",
-    image: "4.jpg",
+    image: "images/4.jpg",
     company: "ADIDAS",
     item_name: "Indian Cricket ODI Jersey",
     original_price: 999,
@@ -60,6 +60,7 @@ const items = [
       count: 10,
     },
   },
+  
   {
     id: "005",
     image: "images/5.jpg",
